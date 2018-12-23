@@ -13,3 +13,10 @@ Course homepage:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## Modifications 
+
+1. went through the tutorial and created a  fork.
+2. then created a new branch 
+3. will go ahead and try to commit the modifications and do a pull request
